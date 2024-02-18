@@ -1,4 +1,4 @@
-# javascript-mini-projects
+# JS mini projects
 
 These are 30 Projects of Vanilla JS Coding Challenge Projects
 
